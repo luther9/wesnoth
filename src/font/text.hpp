@@ -432,6 +432,8 @@ private:
 		return sublayouts_.size() > 0;
 	}
 
+	static void copy_layout_properties(PangoLayout& src, PangoLayout& dst);
+
 	std::string format_link_tokens(const std::string & text) const;
 
 	std::string handle_token(const std::string & token) const;

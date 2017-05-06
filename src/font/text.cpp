@@ -816,8 +816,6 @@ bool pango_text::set_markup_helper(utils::string_view text, PangoLayout& layout)
 
 void pango_text::split_surface()
 {
-	layout_.reset(nullptr);
-
 	auto text_parts = utils::vertical_split(text_);
 
 	PangoLayout* upper_layout = pango_layout_new(context_.get());
@@ -826,8 +824,20 @@ void pango_text::split_surface()
 	set_markup(text_parts.first, *upper_layout);
 	set_markup(text_parts.second, *lower_layout);
 
+	copy_layout_properties(*layout_, *upper_layout);
+	copy_layout_properties(*layout_, *lower_layout);
+
 	sublayouts_.emplace_back(upper_layout, g_object_unref);
 	sublayouts_.emplace_back(lower_layout, g_object_unref);
+
+	layout_.reset(nullptr);
+}
+
+void pango_text::copy_layout_properties(PangoLayout& src, PangoLayout& dst)
+{
+	pango_layout_set_alignment(&dst, pango_layout_get_alignment(&src));
+	pango_layout_set_height(&dst, pango_layout_get_height(&src));
+	pango_layout_set_ellipsize(&dst, pango_layout_get_ellipsize(&src));
 }
 
 } // namespace font
