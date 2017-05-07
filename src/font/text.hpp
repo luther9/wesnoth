@@ -248,12 +248,12 @@ public:
 private:
 
 	/***** ***** ***** *****  Pango variables ***** ***** ***** *****/
-	std::unique_ptr<PangoContext, void(*)(void*)> context_;
-	std::unique_ptr<PangoLayout, void(*)(void*)> layout_;
+	std::unique_ptr<PangoContext, std::function<void(void*)>> context_;
+	std::unique_ptr<PangoLayout, std::function<void(void*)>> layout_;
 	mutable PangoRectangle rect_;
 
 	// Used if the text is too long to fit into a single Cairo surface.
-	std::vector<std::unique_ptr<PangoLayout, void(*)(void*)>> sublayouts_;
+	std::vector<std::unique_ptr<PangoLayout, std::function<void(void*)>>> sublayouts_;
 
 	/** The SDL surface to render upon used as a cache. */
 	mutable surface surface_;

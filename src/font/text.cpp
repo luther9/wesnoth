@@ -159,7 +159,7 @@ gui2::point pango_text::get_cursor_position(
 
 	// First we need to determine the byte offset, if more routines need it it
 	// would be a good idea to make it a separate function.
-	std::unique_ptr<PangoLayoutIter, void(*)(PangoLayoutIter*)> itor(
+	std::unique_ptr<PangoLayoutIter, std::function<void(PangoLayoutIter*)>> itor(
 		pango_layout_get_iter(layout_.get()), pango_layout_iter_free);
 
 	// Go the wanted line.
@@ -646,9 +646,9 @@ void pango_text::render(PangoLayout& layout, const PangoRectangle& rect, const s
 	cairo_format_t format = CAIRO_FORMAT_ARGB32;
 
 	unsigned char* buffer = &surface_buffer_[surface_buffer_offset];
-	std::unique_ptr<cairo_surface_t, void(*)(cairo_surface_t*)> cairo_surface(
+	std::unique_ptr<cairo_surface_t, std::function<void(cairo_surface_t*)>> cairo_surface(
 		cairo_image_surface_create_for_data(buffer, format, width, height, stride), cairo_surface_destroy);
-	std::unique_ptr<cairo_t, void(*)(cairo_t*)> cr(cairo_create(cairo_surface.get()), cairo_destroy);
+	std::unique_ptr<cairo_t, std::function<void(cairo_t*)>> cr(cairo_create(cairo_surface.get()), cairo_destroy);
 
 	if(cairo_status(cr.get()) == CAIRO_STATUS_INVALID_SIZE) {
 		if(!is_surface_split()) {
