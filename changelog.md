@@ -3,8 +3,11 @@
    * Experimental AI:
      * Spread poison: bug fix for units ignoring [avoid] tag
      * Castle switch: bug fix for units-on-keep check
+     * Remove village hunt CA
+     * Add ids for candidate actions
    * Fix bug crashing some AIs when units with chance-to-hit specials without id are on map
    * Fast Micro AI: fix re-adding default CAs when deleting the MAI
+   * Bottleneck Defense Micro AI: fix bug of units not participating if too far in front of the bottleneck
    * Lua AIs: several other minor behind-the-scenes bug fixes
  ### Campaigns
    * Descent into Darkness:
@@ -20,9 +23,12 @@
      * S7b/S8b: reduce enemy gold values and modify dialogue upon allied unit death
    * Tutorial:
      * S2: Make the first grunt cross the bridge, otherwise the scenario is too hard
+   * Under the Burning Suns:
+     * Sun Singer and Sun Sylph: modify faerie fire colors
  ### Language and i18n
-   * Updated translations: Chinese (Simplified), Czech, Dutch, French, Italian,
-     Korean, Portuguese (Brazil), Russian
+   * Updated translations: British English, Chinese (Simplified),
+     Chinese (Traditional), Czech, Dutch, French, German, Italian, Korean,
+     Portuguese (Brazil), Russian, Turkish
    * Fix Rename Unit dialog having untranslated text (issue #4569).
  ### Lua API
    * wesnoth.deprecate_api was fixed to correctly wrap tables with metatables (issue #4079).
@@ -30,9 +36,9 @@
    * Removed accidental silence of two seconds after the first track of each scenario
      (issue #4459).
  ### Units
-   * Sun Singer and Sun Sylph: modify faerie fire colors
    * Add various new death, standing, and idle animations
  ### User interface
+   * Fixed some severe game rendering issues with SDL 2.0.10 (issue #4237, issue #4245).
    * Draw ellipses during draw/sheath animations (issue #1527).
    * In the combat dialog and elsewhere, clicking the "Profile" button opens
      the help on the correct unit variation (e.g., Walking Corpse (Swimmer))
@@ -43,15 +49,19 @@
    * Added the Private Replay checkbox to the Multiplayer Create Game screen. This separates
      whether observers are allowed from whether the replay will be publicly available.
    * In the recruit dialog and recall dialog, units that are too expensive to recruit/recall
-     are grayed out. (PR#4362, PR#4444, part of Issue#1282)
+     are grayed out (PR #4362, PR #4444, part of issue #1282).
+   * Reworked styling of progress bars and the network transfer progress dialog.
  ### Packaging
    * The Wesnoth client now looks for the data/dist file when logging into the multiplayer server.
-     This file should contain one of the following values based on where the package is for:
+     This file should contain one of the following values based on what distribution channel the package is for:
      Default, Steam, SourceForge, Flatpak, macOS App Store, Linux repository, iOS, Android, BSD repository
  ### Miscellaneous and bug fixes
-   * New help topic outlining common (and less commons) reasons for losing a scenario (PR #4217).
+   * New build-dependency: Python3 is required to run the WML unit tests (on non-Windows)
+   * 80% of WML unit tests now run in a batch using a single instance of Wesnoth (non-Windows only)
+   * New help topic outlining common (and less common) reasons for losing a scenario (PR #4217).
    * Add help text for some debug commands (part of issue #2500).
    * Make wmllint recognize `[load_resource]` (issue #4538).
+   * Make wesnoth_addon_manager not generate packet.dump files any more (issue #4651)
 
 ## Version 1.14.9
  ### AI:

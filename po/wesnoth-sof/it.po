@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: it\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-09-10 20:59+0200\n"
+"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
+"PO-Revision-Date: 2019-12-15 13:55+0100\n"
 "Last-Translator: Antonio 'Antro' Rosella <arosella@yahoo.com>\n"
 "Language-Team: Italian <>\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
@@ -147,13 +147,13 @@ msgstr "Haldric II"
 msgid "Glildur"
 msgstr "Gildur"
 
+#. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Crintil
-#. [side]: type=Elvish Captain, id=Glildur
-#. [side]
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]: type=Elvish Captain, id=Glindur
+#. [side]
+#. [side]: type=Elvish Captain, id=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:91
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:43
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:39
@@ -318,8 +318,14 @@ msgstr "E allora, che vuoi che faccia? Non vedo come questo riguardi noi nani."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:253
+#, fuzzy
+#| msgid ""
+#| "When the elves came to Weldyn, about ten years ago, they spoke of a mage "
+#| "named Crelanu, and of his advice about the ruby. He said that the "
+#| "radiance of the stone could be contained, and that doing so would stop "
+#| "the stone’s effect."
 msgid ""
-"When the elves came to Weldyn, about ten years ago, they spoke of a mage "
+"When the elves came to Tath, about five years ago, they spoke of a mage "
 "named Crelanu, and of his advice about the ruby. He said that the radiance "
 "of the stone could be contained, and that doing so would stop the stone’s "
 "effect."
@@ -674,8 +680,8 @@ msgstr "La chiusura dei cancelli"
 msgid "Glindur"
 msgstr "Glindur"
 
-#. [side]: type=Troll Warrior, type=Troll
 #. [side]
+#. [side]: type=Troll Warrior, type=Troll
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:55
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:234
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:261
@@ -915,18 +921,12 @@ msgstr ""
 #. [message]: speaker=Baglur
 #. all the dwarves are inside, although there might still be some elves inside too
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:515
-#, fuzzy
-#| msgid ""
-#| "Just watch. The gates wi’ close very soon. Then the elves outside — and, "
-#| "unfortunately, our dwarves who are still out there — wi’ become "
-#| "irrelevant."
 msgid ""
 "Just watch. The gates wi’ close very soon. Then the elves outside wi’ become "
 "irrelevant."
 msgstr ""
 "Aspetta e guarda. I cancelli si chiuderanno molto presto e allora gli elfi "
-"che si trovano fuori – e, sfortunatamente, i nostri nani ancora lì – "
-"diventeranno irrilevanti."
+"che si trovano fuori diventeranno irrilevanti."
 
 #. [message]: speaker=Glindur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:550
