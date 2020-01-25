@@ -27,8 +27,8 @@
      * Sun Singer and Sun Sylph: modify faerie fire colors
  ### Language and i18n
    * Updated translations: British English, Chinese (Simplified),
-     Chinese (Traditional), Czech, Dutch, French, German, Italian, Korean,
-     Portuguese (Brazil), Russian, Turkish
+     Chinese (Traditional), Czech, Dutch, Esperanto, French, German, Italian,
+     Korean, Portuguese (Brazil), Russian, Spanish, Turkish
    * Fix Rename Unit dialog having untranslated text (issue #4569).
  ### Lua API
    * wesnoth.deprecate_api was fixed to correctly wrap tables with metatables (issue #4079).
@@ -38,7 +38,8 @@
  ### Units
    * Add various new death, standing, and idle animations
  ### User interface
-   * Fixed some severe game rendering issues with SDL 2.0.10 (issue #4237, issue #4245).
+   * Fixed some severe game rendering issues with SDL 2.0.10 (issue #4237, issue #4245,
+     issue #4510).
    * Draw ellipses during draw/sheath animations (issue #1527).
    * In the combat dialog and elsewhere, clicking the "Profile" button opens
      the help on the correct unit variation (e.g., Walking Corpse (Swimmer))
@@ -51,6 +52,8 @@
    * In the recruit dialog and recall dialog, units that are too expensive to recruit/recall
      are grayed out (PR #4362, PR #4444, part of issue #1282).
    * Reworked styling of progress bars and the network transfer progress dialog.
+   * Removed "Classic" in-game theme.
+   * Textboxes now have a hover effect as well as an I-beam cursor.
  ### Packaging
    * The Wesnoth client now looks for the data/dist file when logging into the multiplayer server.
      This file should contain one of the following values based on what distribution channel the package is for:

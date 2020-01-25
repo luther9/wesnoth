@@ -122,7 +122,8 @@ msgstr "Aĝado de babilaj mesaĝoj"
 msgid ""
 "Number of minutes to wait before clearing an ingame chat message. Set to 0 "
 "to disable."
-msgstr "Nombron da minutoj, kiom atendu antaŭ forigi enludan babilan mesaĝon. "
+msgstr ""
+"Nombron da minutoj, kiom atendu antaŭ forigi enludan babilan mesaĝon. "
 "Alĝustigu al 0 por neebligi."
 
 #. [advanced_preference]: type=boolean
@@ -145,8 +146,9 @@ msgstr "Montru ĉiujn unuspecojn en helpo"
 msgid ""
 "Show all unit types in the help (requires restart). This does not alter the "
 "list of encountered units"
-msgstr "Montri ĉiujn unuspecojn en la helpo (bezonas rekomenco). Tio ne ŝanĝas "
-"la liston de trovitajn unuspecojn."
+msgstr ""
+"Montri ĉiujn unuspecojn en la helpo (bezonas rekomenco). Tio ne ŝanĝas la "
+"liston de trovitajn unuspecojn."
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:125
@@ -157,8 +159,9 @@ msgstr "Limito de lastatempaj dosieroj por la redaktilo"
 #: data/advanced_preferences.cfg:126
 msgid ""
 "The maximum number of items to display on the Recent Files menu in the editor"
-msgstr "La maksimuman nombron da aĵoj, kiom elmontru en la \"Lastatempaj "
-"Dosieroj\" menuo en la redaktilo"
+msgstr ""
+"La maksimuman nombron da aĵoj, kiom elmontru en la \"Lastatempaj Dosieroj\" "
+"menuo en la redaktilo"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:136

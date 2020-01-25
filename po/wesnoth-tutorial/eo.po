@@ -143,8 +143,9 @@ msgstr "Alklaku Li'sar-on"
 #. [then]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:316
 msgid "To undo your last move, press <b>u</b> or use the right-click menu."
-msgstr "Por malfari vian pasintan movon, premu <b>u</b> aŭ uzu la "
-"dekstra-klakan menuon"
+msgstr ""
+"Por malfari vian pasintan movon, premu <b>u</b> aŭ uzu la dekstra-klakan "
+"menuon"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:357
@@ -163,11 +164,12 @@ msgid ""
 "undo a move if you move to the wrong place.)"
 msgstr ""
 "Kiam vi ŝvebas sur unuo (en ĉi kazo, Konrado) aŭ elektas ĝin, la lokoj, al "
-"kiuj li povas moviĝi, altlumitas. Ĉiu unuo havas certan nombron da <i>movadaj "
-"poentoj</i>, kiuj diktas kiom da seslateroj, kiujn tiu unuo povas moviĝi dum "
-"vico. Movi unu seslateron sur plata tereno kutime uzas unu movadan poenton. "
-"Por movi, simple klaku sur Konrado kaj tiam sur via celo. (Vi povas premi "
-"<b>u</b> por malfari movon, se vi moviĝas al la malĝusta loko.)"
+"kiuj li povas moviĝi, altlumitas. Ĉiu unuo havas certan nombron da "
+"<i>movadaj poentoj</i>, kiuj diktas kiom da seslateroj, kiujn tiu unuo povas "
+"moviĝi dum vico. Movi unu seslateron sur plata tereno kutime uzas unu "
+"movadan poenton. Por movi, simple klaku sur Konrado kaj tiam sur via celo. "
+"(Vi povas premi <b>u</b> por malfari movon, se vi moviĝas al la malĝusta "
+"loko.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:367
@@ -180,11 +182,12 @@ msgid ""
 "undo a move if you move to the wrong place.)"
 msgstr ""
 "Kiam vi ŝvebas sur unuo (en ĉi kazo, Li’sar) aŭ elektas ĝin, la lokoj, al "
-"kiuj ŝi povas moviĝi, altlumitas. Ĉiu unuo havas certan nombron da <i>movadaj "
-"poentoj</i>, kiuj diktas kiom da seslateroj, kiujn tiu unuo povas moviĝi dum "
-"vico. Movi unu seslateron sur plata tereno kutime uzas unu movadan poenton. "
-"Por movi, simple klaku sur Li’sar kaj tiam sur via celo. (Vi povas premi "
-"<b>u</b> por malfari movon, se vi moviĝas al la malĝusta loko.)"
+"kiuj ŝi povas moviĝi, altlumitas. Ĉiu unuo havas certan nombron da "
+"<i>movadaj poentoj</i>, kiuj diktas kiom da seslateroj, kiujn tiu unuo povas "
+"moviĝi dum vico. Movi unu seslateron sur plata tereno kutime uzas unu "
+"movadan poenton. Por movi, simple klaku sur Li’sar kaj tiam sur via celo. "
+"(Vi povas premi <b>u</b> por malfari movon, se vi moviĝas al la malĝusta "
+"loko.)"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:378
@@ -247,8 +250,8 @@ msgid ""
 "Young man, you have $student_hp hitpoints and a sword. I’m fairly sure "
 "you’ll win."
 msgstr ""
-"Junulo, vi havas $student_hp batpoentojn kaj glavon. Mi estas sufiĉe certa ke "
-"vi gajnos."
+"Junulo, vi havas $student_hp batpoentojn kaj glavon. Mi estas sufiĉe certa "
+"ke vi gajnos."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:503
@@ -470,9 +473,9 @@ msgid ""
 "this turn. Instead, you should return to the keep and recruit two units; you "
 "have plenty of gold for that."
 msgstr ""
-"Bonega ideo! Estas verŝajne plej bone ne provi ataki la celtabulon dum ĉi tiu "
-"vico. Anstataŭ, vi devus reveni al la loĝejturo kaj varbi du unuoj; vi havas "
-"abundon da oro for tio."
+"Bonega ideo! Estas verŝajne plej bone ne provi ataki la celtabulon dum ĉi "
+"tiu vico. Anstataŭ, vi devus reveni al la loĝejturo kaj varbi du unuoj; vi "
+"havas abundon da oro for tio."
 
 #. [label]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:717
@@ -504,8 +507,8 @@ msgid ""
 "choose from: the Elvish Fighter."
 msgstr ""
 "Iam ajn vi estas sur <i>loĝejturo</i>, vi povas <i>varbi</i> unuojn sur la "
-"kastelaj kaheloj ĉirkaŭ ĝin per dekstre klaki kaj elekti <b>Varbi</b>. "
-"Notu, ke nove varbitaj unuoj ne povas agi dum la vico kiam vi varbas ilin; vi "
+"kastelaj kaheloj ĉirkaŭ ĝin per dekstre klaki kaj elekti <b>Varbi</b>. Notu, "
+"ke nove varbitaj unuoj ne povas agi dum la vico kiam vi varbas ilin; vi "
 "povos uzi ilin je la sekvanta vico. En tiu ĉi sceno, vi havas nur unu "
 "unuspecon el tiu elekti: la Elfa Batalisto."
 
@@ -598,10 +601,10 @@ msgid ""
 "or 3 damage on each hit, with 5 attacks). The ranged attack (the bow) would "
 "have been safer."
 msgstr ""
-"Via elfo uzis glavon (5×4; aŭ 5 damaĝo je ĉiu frapo, kun 4 atakoj), kiu estas "
-"<i>kontakta</i> atako. La celtabulo defendis per sia kontakta atako (3×5; aŭ 3 "
-"damaĝo je ĉiu frapo, kun 5 atakoj). La distanca atako (la pafarko) estintus "
-"pli sekura."
+"Via elfo uzis glavon (5×4; aŭ 5 damaĝo je ĉiu frapo, kun 4 atakoj), kiu "
+"estas <i>kontakta</i> atako. La celtabulo defendis per sia kontakta atako "
+"(3×5; aŭ 3 damaĝo je ĉiu frapo, kun 5 atakoj). La distanca atako (la "
+"pafarko) estintus pli sekura."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:910
@@ -649,8 +652,8 @@ msgid ""
 "(XP)</i> so they can gain levels and become more powerful."
 msgstr ""
 "Memoru malantaŭe tiri vunditajn unuojn en vilaĝojn kaj varbi pli se "
-"bezonitaj. Speciale zorgu pri unuoj kun la plej multaj <i>sperta poentoj (SP)"
-"</i> por ke ili povas gajni nivelojn kaj iĝi pli poveca."
+"bezonitaj. Speciale zorgu pri unuoj kun la plej multaj <i>sperta poentoj "
+"(SP)</i> por ke ili povas gajni nivelojn kaj iĝi pli poveca."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:974
@@ -685,11 +688,11 @@ msgid ""
 "choose which one you want. However, second level units cost twice as much to "
 "support as first level units."
 msgstr ""
-"Kiam unuo gajnas sufiĉajn spertajn poentojn (la <i>sperta stango</i>, se tie, "
-"estas sur la <b>dekstro</b> de la <i>batpoenta stango</i>), ĝi gajnos "
-"nivelon. Elfaj batalistoj havas du alirajn elekojn, kaj vi povos elekti tiun, "
-"kiun vi volas. Tamen, unuoj ĉe dua nivelo kostas duobla tiom por subteni, "
-"kiom unuoj ĉe unua nivelo."
+"Kiam unuo gajnas sufiĉajn spertajn poentojn (la <i>sperta stango</i>, se "
+"tie, estas sur la <b>dekstro</b> de la <i>batpoenta stango</i>), ĝi gajnos "
+"nivelon. Elfaj batalistoj havas du alirajn elekojn, kaj vi povos elekti "
+"tiun, kiun vi volas. Tamen, unuoj ĉe dua nivelo kostas duobla tiom por "
+"subteni, kiom unuoj ĉe unua nivelo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1008
