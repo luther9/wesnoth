@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.9.10+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-25 21:01-0300\n"
+"POT-Creation-Date: 2020-05-02 01:57+0300\n"
 "PO-Revision-Date: 2015-08-08 13:56+0300\n"
 "Last-Translator: Gvido Bruveris <huhims@gmail.com>\n"
 "Language-Team: none\n"
@@ -483,213 +483,213 @@ msgid "Dutch Translation"
 msgstr "Tulkojums nīderlandiešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:396
+#: data/core/about_i18n.cfg:399
 msgid "English (GB) Translation"
 msgstr "Tulkojums angļu valodā (GB)"
 
 #. [about]
-#: data/core/about_i18n.cfg:421
+#: data/core/about_i18n.cfg:424
 msgid "English (Shaw) Translation"
 msgstr "Tulkojums angļu valodā (Shaw)"
 
 #. [about]
-#: data/core/about_i18n.cfg:439
+#: data/core/about_i18n.cfg:442
 msgid "Esperanto Translation"
 msgstr "Tulkojums esperanto"
 
 #. [about]
-#: data/core/about_i18n.cfg:458
+#: data/core/about_i18n.cfg:461
 msgid "Estonian Translation"
 msgstr "Tulkojums igauņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:468
+#: data/core/about_i18n.cfg:471
 msgid "Filipino Translation"
 msgstr "Tulkojums filipīniešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:478
+#: data/core/about_i18n.cfg:481
 msgid "Finnish Translation"
 msgstr "Tulkojums somu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:527
+#: data/core/about_i18n.cfg:530
 msgid "French Translation"
 msgstr "Tulkojums franču valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:689
+#: data/core/about_i18n.cfg:692
 msgid "Friulian Translation"
 msgstr "Tulkojums friulu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:696
+#: data/core/about_i18n.cfg:699
 msgid "Galician Translation"
 msgstr "Tulkojums galisiešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:732
+#: data/core/about_i18n.cfg:735
 msgid "German Translation"
 msgstr "Tulkojums vācu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:837
+#: data/core/about_i18n.cfg:840
 msgid "Greek Translation"
 msgstr "Tulkojums grieķu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:880
+#: data/core/about_i18n.cfg:883
 msgid "Hebrew Translation"
 msgstr "Tulkojums irvitā"
 
 #. [about]
-#: data/core/about_i18n.cfg:893
+#: data/core/about_i18n.cfg:896
 msgid "Hungarian Translation"
 msgstr "Tulkojums ungāru valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:954
+#: data/core/about_i18n.cfg:957
 msgid "Icelandic Translation"
 msgstr "Tulkojums īslandiešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:964
+#: data/core/about_i18n.cfg:967
 msgid "Indonesian Translation"
 msgstr "Tulkojums indonēziešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:987
+#: data/core/about_i18n.cfg:990
 msgid "Irish Translation"
 msgstr "Tulkojums īru valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:994
+#: data/core/about_i18n.cfg:997
 msgid "Italian Translation"
 msgstr "Tulkojums itāļu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1041
+#: data/core/about_i18n.cfg:1044
 msgid "Japanese Translation"
 msgstr "Tulkojums japāņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1134
+#: data/core/about_i18n.cfg:1137
 msgid "Korean Translation"
 msgstr "Tulkojums korejiešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1142
+#: data/core/about_i18n.cfg:1145
 msgid "Latin Translation"
 msgstr "Tulkojums latīņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1168
+#: data/core/about_i18n.cfg:1171
 msgid "Latvian Translation"
 msgstr "Tulkojums latviešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1183
+#: data/core/about_i18n.cfg:1186
 msgid "Lithuanian Translation"
 msgstr "Tulkojums lietuviešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1208
+#: data/core/about_i18n.cfg:1211
 msgid "Macedonian Translation"
 msgstr "Tulkojums maķedoniešu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1215
+#: data/core/about_i18n.cfg:1218
 msgid "Marathi Translation"
 msgstr "Tulkojums marati valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1224
+#: data/core/about_i18n.cfg:1227
 msgid "Norwegian Translation"
 msgstr "Tulkojums norvēģu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1249
+#: data/core/about_i18n.cfg:1252
 msgid "Old English Translation"
 msgstr "Tulkojums senangļu valodā (GB)"
 
 #. [about]
-#: data/core/about_i18n.cfg:1267
+#: data/core/about_i18n.cfg:1270
 msgid "Polish Translation"
 msgstr "Tulkojums poļu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1315
+#: data/core/about_i18n.cfg:1318
 msgid "Portuguese Translation"
 msgstr "Tulkojums portugāļu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1329
+#: data/core/about_i18n.cfg:1332
 msgid "Portuguese (Brazil) Translation"
 msgstr "Tulkojums portugāļu valodā (Brazīlijas)"
 
 #. [about]
-#: data/core/about_i18n.cfg:1387
+#: data/core/about_i18n.cfg:1390
 msgid "Romanian Translation"
 msgstr "Tulkojums rumāņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1395
+#: data/core/about_i18n.cfg:1398
 msgid "Russian Translation"
 msgstr "Tulkojums krievu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1487
+#: data/core/about_i18n.cfg:1490
 msgid "Scottish Gaelic Translation"
 msgstr "Tulkojums skotu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1496
+#: data/core/about_i18n.cfg:1499
 msgid "Serbian Translation"
 msgstr "Tulkojums serbu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1515
+#: data/core/about_i18n.cfg:1518
 msgid "Slovak Translation"
 msgstr "Tulkojums slovāku valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1544
+#: data/core/about_i18n.cfg:1547
 msgid "Slovenian Translation"
 msgstr "Tulkojums slovēņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1560
+#: data/core/about_i18n.cfg:1563
 msgid "Spanish Translation"
 msgstr "Tulkojums spāņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1642
+#: data/core/about_i18n.cfg:1645
 msgid "Swedish Translation"
 msgstr "Tulkojums zviedru valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1683
+#: data/core/about_i18n.cfg:1690
 msgid "Turkish Translation"
 msgstr "Tulkojums turku valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1708
+#: data/core/about_i18n.cfg:1715
 msgid "Ukrainian Translation"
 msgstr "Tulkojums ukraiņu valodā"
 
 #. [about]
-#: data/core/about_i18n.cfg:1724
+#: data/core/about_i18n.cfg:1731
 msgid "Valencian (southern Catalan) Translation"
 msgstr "Tulkojums valensiešu valodā (Katalānas dienvidu)"
 
 #. [about]
-#: data/core/about_i18n.cfg:1737
+#: data/core/about_i18n.cfg:1744
 msgid "Vietnamese Translation"
 msgstr "Tulkojums vjetnamiešu valodā"
 
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1757
+#: data/core/about_i18n.cfg:1764
 msgid "RACV’s Translation"
 msgstr "RACVa tulkojums"
 
@@ -5160,7 +5160,7 @@ msgid "Do you really wish to continue?"
 msgstr "Vai tiešām vēlies turpināt?"
 
 #: src/addon/client.cpp:463 src/addon/manager_ui.cpp:174
-#: src/game_initialization/multiplayer.cpp:248
+#: src/game_initialization/multiplayer.cpp:240
 msgid "Confirm"
 msgstr "Apstiprināt"
 
@@ -5939,7 +5939,7 @@ msgstr "Nav atrasta ēra $era"
 msgid "Connection timed out"
 msgstr "Iestājās savienojuma noilgums"
 
-#: src/game_initialization/multiplayer.cpp:126
+#: src/game_initialization/multiplayer.cpp:127
 #, fuzzy
 #| msgid ""
 #| "The server accepts versions '$version1' while you are using version "
@@ -5950,11 +5950,11 @@ msgid ""
 msgstr ""
 "Serverim nepieciešama versija '$version1', tu lieto versiju '$version2'"
 
-#: src/game_initialization/multiplayer.cpp:136
+#: src/game_initialization/multiplayer.cpp:137
 msgid "Server-side redirect loop"
 msgstr "Servera puses pārvirzīšanas cilpa"
 
-#: src/game_initialization/multiplayer.cpp:221
+#: src/game_initialization/multiplayer.cpp:213
 msgid ""
 "The nickname ‘$nick’ is inactive. You cannot claim ownership of this "
 "nickname until you activate your account via email or ask an administrator "
@@ -5964,29 +5964,29 @@ msgstr ""
 "esi aktivizējis savu kontu caur e-pastu vai paprasījis administratoram to "
 "izdarīt tavā vietā."
 
-#: src/game_initialization/multiplayer.cpp:230
+#: src/game_initialization/multiplayer.cpp:222
 msgid "Do you want to continue?"
 msgstr "Vai vēlies turpināt?"
 
-#: src/game_initialization/multiplayer.cpp:232
+#: src/game_initialization/multiplayer.cpp:224
 msgid "Warning"
 msgstr "Brīdinājums"
 
-#: src/game_initialization/multiplayer.cpp:275
-#: src/game_initialization/multiplayer.cpp:291
-#: src/game_initialization/multiplayer.cpp:294
+#: src/game_initialization/multiplayer.cpp:267
+#: src/game_initialization/multiplayer.cpp:283
+#: src/game_initialization/multiplayer.cpp:286
 msgid "Bad data received from server"
 msgstr "No servera saņemti slikti dati"
 
-#: src/game_initialization/multiplayer.cpp:327
+#: src/game_initialization/multiplayer.cpp:319
 msgid "You must login first."
 msgstr "Vispirms ir jāautorizējas."
 
-#: src/game_initialization/multiplayer.cpp:329
+#: src/game_initialization/multiplayer.cpp:321
 msgid "The nickname ‘$nick’ is already taken."
 msgstr "Lietotājvārds '$nick' jau ir aizņemts."
 
-#: src/game_initialization/multiplayer.cpp:331
+#: src/game_initialization/multiplayer.cpp:323
 #, fuzzy
 #| msgid ""
 #| "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric "
@@ -5998,47 +5998,47 @@ msgstr ""
 "Lietotājvārds '$nick' satur neatļautas zīmes. Ir atļauti tikai burti, "
 "cipari, zemsvītras un domuzīmes."
 
-#: src/game_initialization/multiplayer.cpp:335
+#: src/game_initialization/multiplayer.cpp:327
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
 msgstr ""
 "Lietotājvārds '$nick' ir pārāk garš. Lietotājvārds nedrīkst būt garāks par "
 "20 zīmēm."
 
-#: src/game_initialization/multiplayer.cpp:338
+#: src/game_initialization/multiplayer.cpp:330
 msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
 msgstr "Lietotājvārds '$nick' ir rezervēts, un spēlētāji to nevar izmantot."
 
-#: src/game_initialization/multiplayer.cpp:340
+#: src/game_initialization/multiplayer.cpp:332
 msgid "The nickname ‘$nick’ is not registered on this server."
 msgstr "Lietotājvārds '$nick' nav reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:341
+#: src/game_initialization/multiplayer.cpp:333
 msgid " This server disallows unregistered nicknames."
 msgstr " Šis serveris neatļauj nereģistrētus lietotājvārdus."
 
-#: src/game_initialization/multiplayer.cpp:344
+#: src/game_initialization/multiplayer.cpp:336
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
 msgstr "Lietotājvārds '$nick' ir reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:346
+#: src/game_initialization/multiplayer.cpp:338
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
 msgstr "Lietotājvārds '$nick' ir reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:350
+#: src/game_initialization/multiplayer.cpp:342
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "Your IP address is banned on this server’s forums for $duration|."
 msgstr "Lietotājvārds '$nick' ir reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:352
+#: src/game_initialization/multiplayer.cpp:344
 msgid "Your IP address is banned on this server’s forums."
 msgstr ""
 
-#: src/game_initialization/multiplayer.cpp:356
+#: src/game_initialization/multiplayer.cpp:348
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid ""
@@ -6046,19 +6046,19 @@ msgid ""
 "for $duration|."
 msgstr "Lietotājvārds '$nick' ir reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:358
+#: src/game_initialization/multiplayer.cpp:350
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
 msgstr "Lietotājvārds '$nick' ir reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:361
-#: src/game_initialization/multiplayer.cpp:363
+#: src/game_initialization/multiplayer.cpp:353
+#: src/game_initialization/multiplayer.cpp:355
 msgid "The nickname ‘$nick’ is registered on this server."
 msgstr "Lietotājvārds '$nick' ir reģistrēts uz šī servera."
 
-#: src/game_initialization/multiplayer.cpp:364
+#: src/game_initialization/multiplayer.cpp:356
 msgid ""
 "WARNING: There is already a client using this nickname, logging in will "
 "cause that client to be kicked!"
@@ -6066,17 +6066,17 @@ msgstr ""
 "BRĪDINĀJUMS: Viens lietotājs jau izmanto šo lietotājvārdu, ielogojošanās "
 "izsauks tā lietotāja izmešanu!"
 
-#: src/game_initialization/multiplayer.cpp:367
+#: src/game_initialization/multiplayer.cpp:359
 msgid ""
 "Error in the login procedure (the server had no seed for your connection)."
 msgstr ""
 "Kļūda žurnalēšanas procedūrā (serverim nebija atbildes tavam savienojumam)."
 
-#: src/game_initialization/multiplayer.cpp:370
+#: src/game_initialization/multiplayer.cpp:362
 msgid "The password you provided was incorrect."
 msgstr "Tevis ierakstītā parole bija nepareiza."
 
-#: src/game_initialization/multiplayer.cpp:372
+#: src/game_initialization/multiplayer.cpp:364
 msgid "You have made too many login attempts."
 msgstr "Tu esi veicis pārāk lielu skaitu autentifikācijas mēģinājumu."
 

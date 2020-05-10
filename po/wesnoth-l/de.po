@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
+"POT-Creation-Date: 2020-05-01 22:56 UTC\n"
 "PO-Revision-Date: 2019-08-05 00:56+0200\n"
 "Last-Translator: German translation team <irc://irc.freenode.net/#wesnoth-"
 "de>\n"
@@ -494,13 +494,13 @@ msgid "Civil Disobedience"
 msgstr "Ziviler Ungehorsam"
 
 #. [side]: type=Bandit, id=Baldras
-#. [side]: type=Highwayman_Peasant, id=Relana
-#. [side]: type=General, id=Lord Maddock
+#. [side]: type=Rogue, id=Hans
 #. [side]: type=Highwayman, id=Baldras
 #. [side]: type=Bandit_Peasant, id=Baldras
 #. [side]
 #. [side]: type=Shadow Lord, id=Helicrom
-#. [side]: type=Rogue, id=Hans
+#. [side]: type=Highwayman_Peasant, id=Relana
+#. [side]: type=General, id=Lord Maddock
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:26
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:62
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:38
@@ -523,12 +523,12 @@ msgstr "Rebellen"
 msgid "Tarwen"
 msgstr "Tarwen"
 
-#. [side]: type=General, id=Kestrel
+#. [side]: type=Master Bowman, id=Quentin
+#. [side]
 #. [side]: type=Royal Guard, id=Archarel
 #. [side]: type=Iron Mauler, id=Linneus
 #. [side]: type=Cavalier, id=Tarwen
-#. [side]: type=Master Bowman, id=Quentin
-#. [side]
+#. [side]: type=General, id=Kestrel
 #. [side]: type=General, id=Dommel
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:41
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:80
@@ -712,11 +712,11 @@ msgstr "Relana"
 msgid "Urk Delek"
 msgstr "Urk Delek"
 
-#. [side]: type=Orcish Warrior, id=Urk Delek
-#. [side]: type=Saurian Oracle, id=Thhsthss
 #. [side]: type=Necromancer, id=Mal-Jarrof
 #. [side]: type=Necromancer, id=Mal-Jerod
 #. [side]: type=Lich, id=Sel-Mana
+#. [side]: type=Orcish Warrior, id=Urk Delek
+#. [side]: type=Saurian Oracle, id=Thhsthss
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:100
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:122
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:105
@@ -2892,32 +2892,3 @@ msgstr ""
 "die sich gewehrt hatten. Die anderen waren verschwunden, wer weiß, wohin. Es "
 "war ein trauriges Schicksal. Aber je würgender Ashevieres Griff um Wesnoth "
 "wird, umso schlimmeres Leid wird das Leben für sie bereithalten."
-
-#~ msgid "axe"
-#~ msgstr "Axt"
-
-#~ msgid "sword"
-#~ msgstr "Schwert"
-
-#~ msgid "short sword"
-#~ msgstr "Kurzschwert"
-
-#~ msgid "Holy Ankh"
-#~ msgstr "Heiliges Amulett"
-
-#~ msgid ""
-#~ "You find a hefty pendant on a strange and ominous looking altar. It glows "
-#~ "brightly when you pick it up!"
-#~ msgstr ""
-#~ "Ihr findet ein schweres Amulett auf einem unheimlich und rätselhaft "
-#~ "wirkenden Altar. Als ihr es nehmt, leuchtet es hell auf!"
-
-#~ msgid ""
-#~ "There is a strange altar here and a pendant on it. I don’t want to touch "
-#~ "it."
-#~ msgstr ""
-#~ "Dort steht ein Altar herum, der außergewöhnlich aussieht. Auf ihm liegt "
-#~ "ein Amulett. Ich möchte es lieber nicht berühren."
-
-#~ msgid "holy ankh"
-#~ msgstr "Heiliges Amulett"

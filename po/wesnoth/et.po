@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.4 Estonian translation\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-25 21:01-0300\n"
+"POT-Creation-Date: 2020-05-02 01:57+0300\n"
 "PO-Revision-Date: 2013-03-09 13:27+0300\n"
 "Last-Translator: Kaido Kikkas <kaido.kikkas@kakupesa.net>\n"
 "Language-Team: Kaido Kikkas <kakk@kakupesa.net>\n"
@@ -490,213 +490,213 @@ msgid "Dutch Translation"
 msgstr "Hollandikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:396
+#: data/core/about_i18n.cfg:399
 msgid "English (GB) Translation"
 msgstr "Ingliskeelne (briti) tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:421
+#: data/core/about_i18n.cfg:424
 msgid "English (Shaw) Translation"
 msgstr "Ingliskeelne (Shaw) tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:439
+#: data/core/about_i18n.cfg:442
 msgid "Esperanto Translation"
 msgstr "Esperantokeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:458
+#: data/core/about_i18n.cfg:461
 msgid "Estonian Translation"
 msgstr "Eestikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:468
+#: data/core/about_i18n.cfg:471
 msgid "Filipino Translation"
 msgstr "Filipiinikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:478
+#: data/core/about_i18n.cfg:481
 msgid "Finnish Translation"
 msgstr "Soomekeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:527
+#: data/core/about_i18n.cfg:530
 msgid "French Translation"
 msgstr "Prantsusekeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:689
+#: data/core/about_i18n.cfg:692
 msgid "Friulian Translation"
 msgstr "Friuulikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:696
+#: data/core/about_i18n.cfg:699
 msgid "Galician Translation"
 msgstr "Galeegokeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:732
+#: data/core/about_i18n.cfg:735
 msgid "German Translation"
 msgstr "Saksakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:837
+#: data/core/about_i18n.cfg:840
 msgid "Greek Translation"
 msgstr "Kreekakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:880
+#: data/core/about_i18n.cfg:883
 msgid "Hebrew Translation"
 msgstr "Heebreakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:893
+#: data/core/about_i18n.cfg:896
 msgid "Hungarian Translation"
 msgstr "Ungarikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:954
+#: data/core/about_i18n.cfg:957
 msgid "Icelandic Translation"
 msgstr "Islandikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:964
+#: data/core/about_i18n.cfg:967
 msgid "Indonesian Translation"
 msgstr "Indoneesiakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:987
+#: data/core/about_i18n.cfg:990
 msgid "Irish Translation"
 msgstr "Iirikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:994
+#: data/core/about_i18n.cfg:997
 msgid "Italian Translation"
 msgstr "Itaaliakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1041
+#: data/core/about_i18n.cfg:1044
 msgid "Japanese Translation"
 msgstr "Jaapanikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1134
+#: data/core/about_i18n.cfg:1137
 msgid "Korean Translation"
 msgstr "Koreakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1142
+#: data/core/about_i18n.cfg:1145
 msgid "Latin Translation"
 msgstr "Ladinakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1168
+#: data/core/about_i18n.cfg:1171
 msgid "Latvian Translation"
 msgstr "Lätikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1183
+#: data/core/about_i18n.cfg:1186
 msgid "Lithuanian Translation"
 msgstr "Leedukeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1208
+#: data/core/about_i18n.cfg:1211
 msgid "Macedonian Translation"
 msgstr "Makedooniakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1215
+#: data/core/about_i18n.cfg:1218
 msgid "Marathi Translation"
 msgstr "Marathikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1224
+#: data/core/about_i18n.cfg:1227
 msgid "Norwegian Translation"
 msgstr "Norrakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1249
+#: data/core/about_i18n.cfg:1252
 msgid "Old English Translation"
 msgstr "Vanainglise keelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1267
+#: data/core/about_i18n.cfg:1270
 msgid "Polish Translation"
 msgstr "Poolakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1315
+#: data/core/about_i18n.cfg:1318
 msgid "Portuguese Translation"
 msgstr "Portugalikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1329
+#: data/core/about_i18n.cfg:1332
 msgid "Portuguese (Brazil) Translation"
 msgstr "Portugalikeelne tõlge (Brasiilia) "
 
 #. [about]
-#: data/core/about_i18n.cfg:1387
+#: data/core/about_i18n.cfg:1390
 msgid "Romanian Translation"
 msgstr "Rumeeniakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1395
+#: data/core/about_i18n.cfg:1398
 msgid "Russian Translation"
 msgstr "Venekeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1487
+#: data/core/about_i18n.cfg:1490
 msgid "Scottish Gaelic Translation"
 msgstr "Gaelikeelne (šoti) tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1496
+#: data/core/about_i18n.cfg:1499
 msgid "Serbian Translation"
 msgstr "Serbiakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1515
+#: data/core/about_i18n.cfg:1518
 msgid "Slovak Translation"
 msgstr "Slovakikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1544
+#: data/core/about_i18n.cfg:1547
 msgid "Slovenian Translation"
 msgstr "Sloveenikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1560
+#: data/core/about_i18n.cfg:1563
 msgid "Spanish Translation"
 msgstr "Hispaaniakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1642
+#: data/core/about_i18n.cfg:1645
 msgid "Swedish Translation"
 msgstr "Rootsikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1683
+#: data/core/about_i18n.cfg:1690
 msgid "Turkish Translation"
 msgstr "Türgikeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1708
+#: data/core/about_i18n.cfg:1715
 msgid "Ukrainian Translation"
 msgstr "Ukrainakeelne tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1724
+#: data/core/about_i18n.cfg:1731
 msgid "Valencian (southern Catalan) Translation"
 msgstr "Valentsiakeelne (lõunakatalaani) tõlge"
 
 #. [about]
-#: data/core/about_i18n.cfg:1737
+#: data/core/about_i18n.cfg:1744
 msgid "Vietnamese Translation"
 msgstr "Vietnamikeelne tõlge"
 
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1757
+#: data/core/about_i18n.cfg:1764
 msgid "RACV’s Translation"
 msgstr "RACV tõlge"
 
@@ -5222,7 +5222,7 @@ msgid "Do you really wish to continue?"
 msgstr "Kas sa soovid jätkata?"
 
 #: src/addon/client.cpp:463 src/addon/manager_ui.cpp:174
-#: src/game_initialization/multiplayer.cpp:248
+#: src/game_initialization/multiplayer.cpp:240
 msgid "Confirm"
 msgstr "Kinnita"
 
@@ -6005,7 +6005,7 @@ msgstr "Ei leia ajastut $era"
 msgid "Connection timed out"
 msgstr "Ühendus aegus."
 
-#: src/game_initialization/multiplayer.cpp:126
+#: src/game_initialization/multiplayer.cpp:127
 #, fuzzy
 #| msgid ""
 #| "The server requires version '$version1' while you are using version "
@@ -6015,11 +6015,11 @@ msgid ""
 "'$your_version'"
 msgstr "See server tahab versiooni '$version1', sul on aga '$version2'"
 
-#: src/game_initialization/multiplayer.cpp:136
+#: src/game_initialization/multiplayer.cpp:137
 msgid "Server-side redirect loop"
 msgstr "Serveripoolne ümbersuunamine"
 
-#: src/game_initialization/multiplayer.cpp:221
+#: src/game_initialization/multiplayer.cpp:213
 msgid ""
 "The nickname ‘$nick’ is inactive. You cannot claim ownership of this "
 "nickname until you activate your account via email or ask an administrator "
@@ -6028,29 +6028,29 @@ msgstr ""
 "Nimi ‘$nick’ pole aktiivne. Selle saad endale küsida siis, kui oled konto e-"
 "posti teel aktiveerinud või lasknud seda halduril teha."
 
-#: src/game_initialization/multiplayer.cpp:230
+#: src/game_initialization/multiplayer.cpp:222
 msgid "Do you want to continue?"
 msgstr "Kas sa soovid jätkata?"
 
-#: src/game_initialization/multiplayer.cpp:232
+#: src/game_initialization/multiplayer.cpp:224
 msgid "Warning"
 msgstr "Hoiatus"
 
-#: src/game_initialization/multiplayer.cpp:275
-#: src/game_initialization/multiplayer.cpp:291
-#: src/game_initialization/multiplayer.cpp:294
+#: src/game_initialization/multiplayer.cpp:267
+#: src/game_initialization/multiplayer.cpp:283
+#: src/game_initialization/multiplayer.cpp:286
 msgid "Bad data received from server"
 msgstr "Server saatis vigased andmed"
 
-#: src/game_initialization/multiplayer.cpp:327
+#: src/game_initialization/multiplayer.cpp:319
 msgid "You must login first."
 msgstr "See server nõuab sisselogimist."
 
-#: src/game_initialization/multiplayer.cpp:329
+#: src/game_initialization/multiplayer.cpp:321
 msgid "The nickname ‘$nick’ is already taken."
 msgstr "Nimi '$nick' on juba võetud."
 
-#: src/game_initialization/multiplayer.cpp:331
+#: src/game_initialization/multiplayer.cpp:323
 #, fuzzy
 #| msgid ""
 #| "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric "
@@ -6062,45 +6062,45 @@ msgstr ""
 "Nimi '$nick' sisaldab keelatud märke. Lubatud on vaid tähed, numbrid, "
 "allkriips ja sidekriips."
 
-#: src/game_initialization/multiplayer.cpp:335
+#: src/game_initialization/multiplayer.cpp:327
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
 msgstr "Nimi '$nick' on liiga pikk. Lubatud on kuni 20 tähemärki."
 
-#: src/game_initialization/multiplayer.cpp:338
+#: src/game_initialization/multiplayer.cpp:330
 msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
 msgstr "Nimi '$nick' on reserveeritud ja mängijad ei saa seda valida."
 
-#: src/game_initialization/multiplayer.cpp:340
+#: src/game_initialization/multiplayer.cpp:332
 msgid "The nickname ‘$nick’ is not registered on this server."
 msgstr "Nimi '$nick' pole selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:341
+#: src/game_initialization/multiplayer.cpp:333
 msgid " This server disallows unregistered nicknames."
 msgstr "See server ei luba registreerimata nimesid."
 
-#: src/game_initialization/multiplayer.cpp:344
+#: src/game_initialization/multiplayer.cpp:336
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
 msgstr "Nimi '$nick' on selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:346
+#: src/game_initialization/multiplayer.cpp:338
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
 msgstr "Nimi '$nick' on selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:350
+#: src/game_initialization/multiplayer.cpp:342
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "Your IP address is banned on this server’s forums for $duration|."
 msgstr "Nimi '$nick' on selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:352
+#: src/game_initialization/multiplayer.cpp:344
 msgid "Your IP address is banned on this server’s forums."
 msgstr ""
 
-#: src/game_initialization/multiplayer.cpp:356
+#: src/game_initialization/multiplayer.cpp:348
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid ""
@@ -6108,19 +6108,19 @@ msgid ""
 "for $duration|."
 msgstr "Nimi '$nick' on selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:358
+#: src/game_initialization/multiplayer.cpp:350
 #, fuzzy
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
 msgstr "Nimi '$nick' on selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:361
-#: src/game_initialization/multiplayer.cpp:363
+#: src/game_initialization/multiplayer.cpp:353
+#: src/game_initialization/multiplayer.cpp:355
 msgid "The nickname ‘$nick’ is registered on this server."
 msgstr "Nimi '$nick' on selles serveris registreeritud."
 
-#: src/game_initialization/multiplayer.cpp:364
+#: src/game_initialization/multiplayer.cpp:356
 msgid ""
 "WARNING: There is already a client using this nickname, logging in will "
 "cause that client to be kicked!"
@@ -6128,16 +6128,16 @@ msgstr ""
 "HOIATUS: Keegi kasutab juba seda nime - sellega sisse logimine viskab "
 "eelmise kasutaja välja!"
 
-#: src/game_initialization/multiplayer.cpp:367
+#: src/game_initialization/multiplayer.cpp:359
 msgid ""
 "Error in the login procedure (the server had no seed for your connection)."
 msgstr "Viga sisselogimisel (server ei suuda ühenduda)."
 
-#: src/game_initialization/multiplayer.cpp:370
+#: src/game_initialization/multiplayer.cpp:362
 msgid "The password you provided was incorrect."
 msgstr "Parool oli vale."
 
-#: src/game_initialization/multiplayer.cpp:372
+#: src/game_initialization/multiplayer.cpp:364
 msgid "You have made too many login attempts."
 msgstr "Oled proovinud liiga mitu korda sisse logida."
 

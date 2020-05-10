@@ -1,11 +1,26 @@
-## Version 1.14.10+dev
+## Version 1.14.11+dev
+ ### Add-ons client
+   * Ensure the client doesn't re-download dependencies that have just been updated during an Update All
+     run by re-reading add-on versions after each update batch (issue #3273).
+ ### Language and i18n
+   * Updated translations: British English, Czech, Chinese (Traditional), Dutch, Esperanto,
+     Finnish, French, Italian, Portuguese, Portuguese (Brazil), Swedish.
+   * Use <game dir>/translations instead of <process working dir>/translations to find core
+     translation catalogues on Windows.
+
+## Version 1.14.11
+ ### Campaigns
+   * Under the Burning Suns:
+     * S2: dehydration now only affects player units
  ### Language and i18n
    * Updated translations: Czech, German.
  ### Packaging
    * Fixed data/dist information not being found on many platforms other than Windows (only
      with the installer-created shortcut), as well as only the very first word being read instead
      of the whole line.
-   * Added support for systemctl reload
+   * Added support for systemctl reload.
+ ### Miscellaneous and bug fixes
+   * Silenced spurious warning about conflicting l10n-track files (issue #4716).
 
 ## Version 1.14.10
  ### AI

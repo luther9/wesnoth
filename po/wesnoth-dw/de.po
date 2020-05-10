@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.12\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 16:29 UTC\n"
+"POT-Creation-Date: 2020-05-01 22:56 UTC\n"
 "PO-Revision-Date: 2020-02-01 10:57+0100\n"
 "Last-Translator: German translation team <irc://irc.freenode.net/#wesnoth-"
 "de>\n"
@@ -2231,8 +2231,8 @@ msgstr ""
 "Für mich sieht das wie die perfekte Bruthöhle aus, da kommen bestimmt noch "
 "mehr."
 
-#. [side]
 #. [unit]: type=Silver Mage, id=Caladon
+#. [side]
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:383
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:95
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:97
@@ -3443,33 +3443,3 @@ msgstr ""
 "Dieser Angriff betäubt das Opfer, so dass keine Kontrollzone "
 "aufrechterhalten wird. Dieser Effekt wirkt nur bis zur nächsten Runde des "
 "Opfers."
-
-#~ msgid ""
-#~ "Let’s hope those wild wolves over there don’t get to it before we do."
-#~ msgstr ""
-#~ "Hoffen wir, dass die wilden Wölfe das Festmahl nicht vor uns erreichen."
-
-#~ msgid ""
-#~ "Hold on...It looks like a better feast is coming our way! Fresh fish, "
-#~ "boys! Go get it."
-#~ msgstr ""
-#~ "Schaut mal… Festessen voraus mit Frischfisch auf Bestellung! Ran ans "
-#~ "Buffet!"
-
-#~ msgid "Merman Forces"
-#~ msgstr "Meervolkgeschwader"
-
-#~ msgid "fist"
-#~ msgstr "Faust"
-
-#~ msgid "tail"
-#~ msgstr "Schwanz"
-
-#~ msgid "tentacle"
-#~ msgstr "Tentakel"
-
-#~ msgid "ink"
-#~ msgstr "Tinte"
-
-#~ msgid "mace"
-#~ msgstr "Streitkolben"

@@ -1407,9 +1407,14 @@ void canvas::draw(const bool force)
 		canvas_ = surface(w_, h_);
 	}
 
-	SDL_DestroyRenderer(renderer_);
+	if(renderer_) {
+		SDL_DestroyRenderer(renderer_);
+	}
 
 	renderer_ = SDL_CreateSoftwareRenderer(canvas_);
+	if(!renderer_) {
+		ERR_GUI_D << "SDL_CreateSoftwareRenderer failed, reason: " << SDL_GetError() << "\n";
+	}
 	SDL_SetRenderDrawBlendMode(renderer_, SDL_BLENDMODE_BLEND);
 
 	// draw items

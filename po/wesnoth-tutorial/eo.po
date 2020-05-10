@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.1-dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-26 00:01 UTC\n"
+"POT-Creation-Date: 2020-05-01 22:57 UTC\n"
 "PO-Revision-Date: 2008-03-01 17:34+0200\n"
 "Last-Translator: Luther Thompson <luther@librem.one>\n"
 "Language-Team: none\n"
@@ -310,8 +310,8 @@ msgstr "Ĉu mi remarŝu?"
 msgid "female^Should I retreat?"
 msgstr "Ĉu mi remarŝu?"
 
-#. [message]: speaker=Galdrad
 #. [message]: speaker=Delfador
+#. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:550
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1055
 msgid "Good idea!"
@@ -394,8 +394,8 @@ msgstr ""
 "kiun vicon estas, kaj iun ajn taŭgan vican limiton, apud la flaga piktogramo "
 "ĉe la supro de la ekrano."
 
-#. [else]
 #. [event]
+#. [else]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:614
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:679
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:785
@@ -942,8 +942,13 @@ msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
 msgstr ""
+<<<<<<< HEAD
 "Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? "
 "Eble amason da birdotimigiloj?"
+=======
+"Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? Eble amason da "
+"birdotimigiloj?"
+>>>>>>> upstream/1.14
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:204
@@ -951,8 +956,13 @@ msgid ""
 "female^Ho, Galdrad! Has Delfador conjured something else to beat me with? A "
 "flock of scarecrows, perhaps?"
 msgstr ""
+<<<<<<< HEAD
 "Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? "
 "Eble amason da birdotimigiloj?"
+=======
+"Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? Eble amason da "
+"birdotimigiloj?"
+>>>>>>> upstream/1.14
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:210
@@ -1017,8 +1027,13 @@ msgid ""
 "the water, where they are exposed and we are protected by the forest."
 msgstr ""
 "Ĉu vi vidas ĉi tiun malhele-bluan akvon? Estas tro profunda por ajn flanko "
+<<<<<<< HEAD
 "transiri. La orkoj povus malripide vadi tra tiu mallarĝa zono de pli "
 "hele-blua akvo en la nordo; sed ni povus stari sur la bordo kaj devigi ilin "
+=======
+"transiri. La orkoj povus malripide vadi tra tiu mallarĝa zono de pli hele-"
+"blua akvo en la nordo; sed ni povus stari sur la bordo kaj devigi ilin "
+>>>>>>> upstream/1.14
 "batali nin el la akvo, kie ili estas malkovritaj kaj la arbaro protektas nin."
 
 #. [event]
@@ -2171,8 +2186,8 @@ msgstr ""
 msgid "Warrior"
 msgstr "Militisto"
 
-#. [unit_type]: id=Warrioress, race=human
 #. [unit_type]: id=Warrior, race=human
+#. [unit_type]: id=Warrioress, race=human
 #: data/campaigns/tutorial/units/Warrior.cfg:19
 #: data/campaigns/tutorial/units/Warrioress.cfg:21
 msgid ""
