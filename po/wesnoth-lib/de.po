@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-13 03:18+0100\n"
+"POT-Creation-Date: 2020-01-25 21:01-0300\n"
+"PO-Revision-Date: 2020-02-01 11:04+0100\n"
 "Last-Translator: Aaron Winter <winter.aaron93@gmail.com>\n"
 "Language-Team: irc://irc.freenode.net/#wesnoth-de\n"
 "Language: de_DE\n"
@@ -3510,7 +3510,7 @@ msgstr "Wählt Eure bevorzugte Sprache:"
 #. [label]: id=status
 #: data/gui/window/loadscreen.cfg:150
 msgid "Loading..."
-msgstr "Laden..."
+msgstr "Laden…"
 
 #. [label]: id=map
 #: data/gui/window/lobby_main.cfg:27
@@ -4236,7 +4236,7 @@ msgstr "Spiel Lobby"
 #: data/gui/window/mp_staging.cfg:806
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:483
 msgid "Waiting for players to join..."
-msgstr "Warte auf Beitritt anderer Spieler..."
+msgstr "Warte auf Beitritt anderer Spieler…"
 
 #. [label]: id=title
 #: data/gui/window/mp_join_game_password_prompt.cfg:42
@@ -5029,7 +5029,7 @@ msgstr "Aufgeben & Beenden"
 #. [label]: id=lblTitle
 #: data/gui/window/synced_choice_wait.cfg:40
 msgid "Waiting..."
-msgstr "Warte..."
+msgstr "Warte…"
 
 #. [label]: id=lblMessage
 #: data/gui/window/synced_choice_wait.cfg:60
@@ -6390,7 +6390,7 @@ msgstr "Allianz:"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:484
 msgid "Waiting for players to choose factions..."
-msgstr "Warte auf Spieler um Fraktionen zu wählen..."
+msgstr "Warte auf Spieler um Fraktionen zu wählen…"
 
 #: src/gui/dialogs/outro.cpp:42
 msgid "The End"
@@ -6745,13 +6745,13 @@ msgstr "BP: "
 msgid "Abilities"
 msgstr "Fähigkeiten"
 
-#: src/gui/widgets/window.cpp:939
+#: src/gui/widgets/window.cpp:938
 msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
 msgstr ""
 "Dieser »click dismiss« Dialog benötigt eine »click_dismiss« oder »ok« "
 "Schaltfläche."
 
-#: src/gui/widgets/window.cpp:964 src/gui/widgets/window.cpp:1001
+#: src/gui/widgets/window.cpp:963 src/gui/widgets/window.cpp:1000
 #: src/tests/gui/test_gui2.cpp:569
 msgid "Failed to show a dialog, which doesn't fit on the screen."
 msgstr ""
