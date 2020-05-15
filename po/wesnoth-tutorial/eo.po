@@ -942,13 +942,8 @@ msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
 msgstr ""
-<<<<<<< HEAD
-"Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? "
-"Eble amason da birdotimigiloj?"
-=======
 "Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? Eble amason da "
 "birdotimigiloj?"
->>>>>>> upstream/1.14
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:204
@@ -956,13 +951,8 @@ msgid ""
 "female^Ho, Galdrad! Has Delfador conjured something else to beat me with? A "
 "flock of scarecrows, perhaps?"
 msgstr ""
-<<<<<<< HEAD
-"Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? "
-"Eble amason da birdotimigiloj?"
-=======
 "Ho, Galdrado! Ĉu Delfador elsorĉis ion alian por venki min? Eble amason da "
 "birdotimigiloj?"
->>>>>>> upstream/1.14
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:210
@@ -1027,13 +1017,8 @@ msgid ""
 "the water, where they are exposed and we are protected by the forest."
 msgstr ""
 "Ĉu vi vidas ĉi tiun malhele-bluan akvon? Estas tro profunda por ajn flanko "
-<<<<<<< HEAD
-"transiri. La orkoj povus malripide vadi tra tiu mallarĝa zono de pli "
-"hele-blua akvo en la nordo; sed ni povus stari sur la bordo kaj devigi ilin "
-=======
 "transiri. La orkoj povus malripide vadi tra tiu mallarĝa zono de pli hele-"
 "blua akvo en la nordo; sed ni povus stari sur la bordo kaj devigi ilin "
->>>>>>> upstream/1.14
 "batali nin el la akvo, kie ili estas malkovritaj kaj la arbaro protektas nin."
 
 #. [event]
@@ -1549,6 +1534,9 @@ msgid ""
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
 msgstr ""
+"Vi lernis bone, Konrado. Ja estas bona ideo restigi via gvidanto sekura kaj "
+"protektita kaj en atingo de via loĝejturo frue en la ludo. La batala tajdo "
+"povas turni rapide, kaj vi ne volas troviĝi fortranĉita de varbi garnaĵojn."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:641
@@ -1558,11 +1546,14 @@ msgid ""
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
 msgstr ""
+"Vi lernis bone, Li’sar. Ja estas bona ideo restigi via gvidanto sekura kaj "
+"protektita kaj en atingo de via loĝejturo frue en la ludo. La batala tajdo "
+"povas turni rapide, kaj vi ne volas troviĝi fortranĉita de varbi garnaĵojn."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:711
 msgid "The tutorial isn’t meant to be this difficult"
-msgstr ""
+msgstr "La lernilo ne estas intencita esti kiel malfacila."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:713
@@ -1573,11 +1564,16 @@ msgid ""
 "\n"
 "Please report the bug."
 msgstr ""
+"La orko sur la insulo estis movonta trans la ponto, por ke li povus esti "
+"atakita de kelkaj elfoj unufoje. Io rompis la programita okazo, tio igos la "
+"scenaro pli malfacila per lasi lin en defendebla pozicio.\n"
+"\n"
+"Bonvolu raporti la cimon."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:726
 msgid "Tracking Enemy Movement"
-msgstr ""
+msgstr "Spuri Malamikan Movadon"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:728
@@ -1622,7 +1618,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:755
 msgid "Zone of Control"
-msgstr ""
+msgstr "Zono de Kontrolo"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:757
@@ -1634,6 +1630,12 @@ msgid ""
 "prevent stronger enemies from reaching key locations, such as villages, even "
 "if you have limited manpower."
 msgstr ""
+"La seslateroj tuj ĉirkaŭ unuo konsisitigas ĝian <i>Zonon de Kontrolo</i>. "
+"Kiam malamika unuo eniras tiujn seslaterojn, ili ne povas plu movi dum tiu "
+"vico. (Escepto estas unuoj kun la <i>bataletanta</i> povo, kiuj estas "
+"neafekciita de zonoj de kontrolo.) Ĉi tio povas uziti por krei blokadon por "
+"preventi pli fortajn malamikojn de atingi gravajn locojn, kiel vilaĝojn, eĉ "
+"se vi havas limitan hompovon."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:778
@@ -1681,6 +1683,8 @@ msgid ""
 "One fewer orc to deal with, and our way across the bridge is clear! I also "
 "gained experience from striking the killing blow!"
 msgstr ""
+"Unu malplia orko por zorgi, kaj nia vojo trans la ponto estas klara! Mi "
+"ankaŭ gajnis sperton el fari la mortigantan frapon!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:831
@@ -1688,6 +1692,8 @@ msgid ""
 "female^One fewer orc to deal with, and our way across the bridge is clear! I "
 "also gained experience from striking the killing blow!"
 msgstr ""
+"Unu malplia orko por zorgi, kaj nia vojo trans la ponto estas klara! Mi "
+"ankaŭ gajnis sperton el fari la mortigantan frapon!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:852
@@ -1708,6 +1714,9 @@ msgid ""
 "without wading through the water, and you will be securely on a terrain with "
 "good defense."
 msgstr ""
+"Bone farite! La insula vilaĝo estas nia. Vi povas uzi la arbojn por konstrui "
+"blokadon kontraŭ la orkoj; ili povas veni trans la ponto nur unufoje sen "
+"vadi tra la akvo, kaj vi estos sekure sur tereno kun bona defendo."
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:880
@@ -1716,6 +1725,9 @@ msgid ""
 "it if they try to sneak around via the ford! It will be hard to dislodge "
 "them if they do."
 msgstr ""
+"Ne forgesu pri tiu lasta vilaĝo proksima de la kanalo. La orkoj kaptos ĝin "
+"se ili provos kaŝiri ĉirkaŭe per la vadejo! Estos malfacile eligi ilin se "
+"ili sukcesos."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:897
