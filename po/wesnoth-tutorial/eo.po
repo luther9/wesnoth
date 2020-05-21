@@ -551,8 +551,8 @@ msgstr ""
 "Certe ekzamenu la <i>trajtojn</i> de viaj novaj varbitoj. Ili estas "
 "listigitaj sub ĝia raso en la flankstango. Trajtoj povas subtile afekcii "
 "kiel vi uzas viajn militistojn. Ekzemple, unuoj kun la <i>rapida</i>n "
-"trajton povas vice moviĝi unu plian seslateron, kaj unuoj kun la <i>"
-"inteligenta</i>n trajton bezonas 20% malpli da sperto por gajni nivelon."
+"trajton povas vice moviĝi unu plian seslateron, kaj unuoj kun la "
+"<i>inteligenta</i>n trajton bezonas 20% malpli da sperto por gajni nivelon."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:826
@@ -1390,8 +1390,8 @@ msgstr ""
 "La Pozicia Tablo detalas la nunajn poziciojn kaj komencantajn kondiĉojn de "
 "la partioj. Nebulo kaj mallumo afekcios tion, kion vi povas vidi en ĉi tiu "
 "tablo, kaj okaze partio eble estas kaŝita; tamen estas ankoraŭ utila "
-"kontroli ĉi tiu tablo kiam scenaro komenciĝas. Vi povas atingi ĝin en la <b>"
-"Menuo</b> menuo."
+"kontroli ĉi tiu tablo kiam scenaro komenciĝas. Vi povas atingi ĝin en la "
+"<b>Menuo</b> menuo."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:568
@@ -1462,9 +1462,9 @@ msgid ""
 "our forces. It might do to send a few units to defend the banks, and the "
 "village there."
 msgstr ""
-"Tamen, vidadu tiun vadejon. La orkoj eble provos kaŝiri ĉirkaŭe malantaŭ "
-"nia militistaron. Estas eble taŭge sendi kelkajn unuojn por defendi la "
-"bordojn kaj la vilaĝon tie."
+"Tamen, vidadu tiun vadejon. La orkoj eble provos kaŝiri ĉirkaŭe malantaŭ nia "
+"militistaron. Estas eble taŭge sendi kelkajn unuojn por defendi la bordojn "
+"kaj la vilaĝon tie."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:614
@@ -1515,16 +1515,14 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:629
 msgid ""
 "I think I’ll stick around the keep for now, in order to recruit more units."
-msgstr ""
-"Mi pensas ke mi restos ĉirkaŭ la loĝejturo nune, por varbi pli unuojn."
+msgstr "Mi pensas ke mi restos ĉirkaŭ la loĝejturo nune, por varbi pli unuojn."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:630
 msgid ""
 "female^I think I’ll stick around the keep for now, in order to recruit more "
 "units."
-msgstr ""
-"Mi pensas ke mi restos ĉirkaŭ la loĝejturo nune, por varbi pli unuojn."
+msgstr "Mi pensas ke mi restos ĉirkaŭ la loĝejturo nune, por varbi pli unuojn."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:636
@@ -1589,8 +1587,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:731
 msgid "We must occupy that island before the Wolf Riders reach it!"
-msgstr ""
-"Ni devas okupi tiun insulon antaŭ la Luprajdantoj atingos ĝin!"
+msgstr "Ni devas okupi tiun insulon antaŭ la Luprajdantoj atingos ĝin!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:736
@@ -1769,9 +1766,9 @@ msgid ""
 "day."
 msgstr ""
 "Zorgu! Nun estas nokto. Orkoj estas <i>kaosemaj</i>: tio signifas ke iliaj "
-"atakoj nune estas 25% pli fortaj. Tage, iliaj atakoj estas 25% pli malfortaj, "
-"kio estas rimarkebla malsameco. Vi estas <i>leĝema</i>: tage pli forta kaj "
-"nokte pli malforta. Viaj elfaj militistoj estas <i>neŭtralaj</i>: "
+"atakoj nune estas 25% pli fortaj. Tage, iliaj atakoj estas 25% pli "
+"malfortaj, kio estas rimarkebla malsameco. Vi estas <i>leĝema</i>: tage pli "
+"forta kaj nokte pli malforta. Viaj elfaj militistoj estas <i>neŭtralaj</i>: "
 "neafekciitaj de la tempo de tago."
 
 #. [message]: speaker=narrator
