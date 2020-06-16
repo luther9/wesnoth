@@ -615,7 +615,7 @@ msgid ""
 "help."
 msgstr ""
 "Vi ne farus ion ajn stultan, kiel sturmi tiun celtabulon per vi mem denove, "
-"ĉu vere? Unue uzu la batalantojn, kiun vi varbis; ili multe helpos."
+"ĉu vere? Unue uzu la batalistojn, kiun vi varbis; ili multe helpos."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:898
@@ -1132,7 +1132,7 @@ msgstr ""
 "Vi ankaŭ havas du novajn specojn de unuoj por varbi dum ĉi tiu scenaro: "
 "Elfaj Pafarkistoj kaj Elfaj Ŝamaninoj. Mi diros vin pli pri ili kiam vi "
 "varbos ilin. Mi mem rekomendus egalita militistaron de du pafarkistoj, du "
-"batalantoj, kaj ŝamanino."
+"batalistoj, kaj ŝamanino."
 
 #. [event]
 #. [on_undo]
@@ -1294,7 +1294,7 @@ msgid ""
 "melee attacks with strong ranged attacks, and vice versa. This allows your "
 "units to take less damage overall when your enemy counterattacks."
 msgstr ""
-"Malsame de la Elfa Batalanto, kiu havas fortajn kontaktajn atakojn, la Elfa "
+"Malsame de la Elfa Batalisto, kiu havas fortajn kontaktajn atakojn, la Elfa "
 "Pafarkisto havas fortajn distancajn atakojn. Estas utile ataki malamikajn "
 "unuojn kun fortaj kontaktaj atakoj per fortaj distancaj atakoj, kaj inverse. "
 "Tio lasas viajn unuojn prenadi malpli damaĝon kiam via malamiko "
@@ -2192,7 +2192,7 @@ msgstr ""
 #. [unit_type]: id=Fighter, race=human
 #: data/campaigns/tutorial/units/Fighter.cfg:4
 msgid "Fighter"
-msgstr "Batalanto"
+msgstr "Batalisto"
 
 #. [unit_type]: id=Fighter, race=human
 #. [unit_type]: id=Fighteress, race=human
@@ -2203,7 +2203,7 @@ msgid ""
 "attack from enemies. However, they have the potential to become great "
 "warriors one day."
 msgstr ""
-"Junaj kaj aŭdacaj, Batalantoj estas lertaj kun glavoj kaj estas vundebla de "
+"Junaj kaj aŭdacaj, Batalistoj estas lertaj kun glavoj kaj estas vundebla de "
 "atakoj el malamikoj. Tamen, ili havas eblecon iĝi militistegojn iutage."
 
 #. [unit_type]: id=Fighteress, race=human
@@ -2238,7 +2238,7 @@ msgid ""
 "With more experience, Fighters have honed their skills with the sword and "
 "become powerful Warriors."
 msgstr ""
-"Per pli sperto, Batalantoj akrigis sian lerton kun la glavo kaj iĝis "
+"Per pli sperto, Batalistoj akrigis sian lerton kun la glavo kaj iĝis "
 "potencojn Militistojn."
 
 #. [unit_type]: id=Warrioress, race=human
