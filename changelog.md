@@ -1,6 +1,7 @@
 ## Version 1.14.13+dev
  ### Language and i18n
-   * Updated translations: Portuguese (Brazil)
+   * Updated translations: Chinese (Simplified), Esperanto, Italian, Portuguese (Brazil),
+     Russian
  ### Miscellaneous and bug fixes
 
 ## Version 1.14.13
