@@ -1785,13 +1785,8 @@ msgid ""
 "You can hover over the sky image below the minimap on the right to see the "
 "current time of day and who has the advantage."
 msgstr ""
-<<<<<<< HEAD
-"Dum scenaro, la tempo de tago procedos dum vicoj pasas. Estas 4 <i>aranĝoj"
-"</i> tiuj unuo povas esti: Leĝema, Neŭtrala, Kaosema, aŭ Limema. Ĉiu aranĝo "
-=======
 "Dum scenaro, la tempo de tago procedos dum vicoj pasas. Estas 4 <i>aranĝoj</"
 "i> tiuj unuo povas esti: Leĝema, Neŭtrala, Kaosema, aŭ Limema. Ĉiu aranĝo "
->>>>>>> upstream/1.14
 "ricevas malsaman bonigon aŭ malbonigon laŭ la tempo de tago. Vi povas ŝvebi "
 "super la ĉiela bildo sub la mapeto en la dekstro por vidi la nuna tempo de "
 "tago kaj kiu havas la avantaĝo."
