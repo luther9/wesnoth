@@ -2030,13 +2030,8 @@ msgid ""
 "always has a 70% chance to hit, but it is not as powerful as the similar "
 "attack wielded by the Elvish Sorceress."
 msgstr ""
-<<<<<<< HEAD
-"Plialtiĝi je nivelo estas tute resaniginta min! Mi povas resanigi unuojn de 8 "
-"batpoentoj ĉiu vico, anstataŭ nur 4, kaj ankaŭ eble sanigus ilin de veneno "
-=======
 "Plialtiĝi je nivelo estas tute resaniginta min! Mi povas resanigi unuojn de "
 "8 batpoentoj ĉiu vico, anstataŭ nur 4, kaj ankaŭ eble sanigus ilin de veneno "
->>>>>>> upstream/1.14
 "se ili ne povus atingi vilaĝon! Mi ankaŭ gajnis novan <i>magian</i> atakon, "
 "signife ke ĝi ĉiam havas 70% ŝancon por bati, sed ĝi ne estas tiel forta "
 "kiel la simila atako uzita de la Elfa Sorĉistino."
@@ -2182,13 +2177,8 @@ msgid ""
 "is the easiest and is the recommended first campaign."
 msgstr ""
 "Vi venkis la orkojn! Vi eble volas provi unu de la komencanta-nivela "
-<<<<<<< HEAD
-"kampanjoj venonte, kiuj enhavas strategiajn aludojn. <i>Rakonto pri Du Fratoj"
-"</i> estas la plej facila kaj estas la rekomendita unua kampanjo."
-=======
 "kampanjoj venonte, kiuj enhavas strategiajn aludojn. <i>Rakonto pri Du "
 "Fratoj</i> estas la plej facila kaj estas la rekomendita unua kampanjo."
->>>>>>> upstream/1.14
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1483
